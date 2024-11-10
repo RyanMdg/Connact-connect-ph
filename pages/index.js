@@ -5,7 +5,7 @@ function index() {
   return (
     <div>
       <NavBar />
-      <h1>testing</h1>
+      <h1>testingggggggggggggggggggggggggggggggg</h1>
     </div>
   );
 }
